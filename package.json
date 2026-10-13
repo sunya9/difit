@@ -74,7 +74,7 @@
     "react-hotkeys-hook": "^5.2.4",
     "react-markdown": "^10.1.0",
     "remark-gfm": "^4.0.1",
-    "simple-git": "^3.28.0"
+    "simple-git": "^4.0.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.11",
@@ -89,7 +89,7 @@
     "@vitejs/plugin-react": "^5.0.0",
     "autoprefixer": "^10.4.21",
     "eslint-plugin-react-hooks": "^7.0.1",
-    "happy-dom": "^20.0.0",
+    "happy-dom": "^21.0.1",
     "knip": "^5.83.0",
     "lefthook": "^2.0.0",
     "oxfmt": "^0.34.0",
